@@ -8,13 +8,13 @@ sidebar:
 
     # Profile information
     name: Hamza Kattan
-    tagline: Developer and Translator
+    tagline: Developer & Translator
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: hamzakattan@outlook.com
-    email2: hamzakat@protonmail.com
-    phone: 
+    #email2: hamzakat@protonmail.com
+    phone:
     website: hamzakat.github.io #do not add http://
     linkedin: 
     github: hamzakat
@@ -35,7 +35,7 @@ sidebar:
         level: Professional
 
     interests:
-      - item: Unix-Based OS
+      - item: Computer Science
         link:
    
       - item: Automation
@@ -43,7 +43,7 @@ sidebar:
       - item: Reading
         link:
 
-      - item: Olympic Weightlifting 
+      - item: Weightlifting 
         link:
       
       
@@ -51,20 +51,20 @@ sidebar:
 career-profile:
     title: Bio
     summary: |
-      My name is Muhammad Hamza Kattan. I'm from Syria. I consider myself a persistent learner because I think this is essential for pursuing the goals.
+      My name is Muhammad Hamza Kattan. I'm from Syria. I consider myself a persistent learner, as I think this is imperative for pursuing the goals.
       
 education:
     - degree: BSc in Computer Science
       university: University of the People
       time: 2018 - (Present)
       details: |
-        Currently, I'm a college sophomore, and I'm studying a wide range of topics in computer science. My current GPA is 3.1
+        Currently, I'm a college junior (3rd year student), and I'm fimiliar a wide range of fileds in computer science. 
         
     - degree: Electronics Engineering
       university: Al-Baath University
       time: 2015 - 2017
       details: |
-        I've studied for two years in this major about electrical engineering principles.
+        I've studied for two years the principles of electrical engineering .
         
 experiences:
    - role: Translator
@@ -75,20 +75,19 @@ experiences:
 
     - role:  Full Stack Web Developer
       time: 2019 - (Present)
-      company: Freelance
+      company: Freelancing
       details: |
         Experienced with:
         - Bootstrap
         - Tailwind CSS
-        - PHP
-        - PHP Laravel
+        - Express.js
         - Python Django
         - RESTful API
 
     
     - role: Translator
       time: 2017 - (Present)
-      company: Freelance
+      company: Freelancing
       details: |
         I've worked on translating a variety of text, documents, and video clips from English to Arabic and vice versa. Most of them were for educational purposes.
         
@@ -125,9 +124,9 @@ publications:
       Some of the certifications I've got.
     papers:
       - title: Using Python to Interact with the Operating System
-        link: "#"
+        link: "https://www.coursera.org/account/accomplishments/verify/DXMBL8RL2K8J"
         authors: Google
-        conference: "December 2020"
+        conference: "July 2021"
 
       - title: "Crash Course on Python"
         link: "https://www.coursera.org/account/accomplishments/verify/2W6BLEMMFZJP"
