@@ -67,13 +67,15 @@ education:
         I've studied for two years the principles of electrical engineering .
         
 experiences:
-    role: Translator
-     time: 2020 - (Present)
-     company:  <a href="https://sreoconsulting.com/" target="_blank" rel="nofollow">SREO Consulting Ltd.</a>
-     details: |
-       AR-EN Translator
 
-    role:  Full Stack Web Developer
+           
+    - role: Translator
+      time: 2020 - (Present)
+      company:  <a href="https://sreoconsulting.com/" target="_blank" rel="nofollow">SREO Consulting Ltd.</a>
+      details: |
+        AR-EN Translator
+
+    - role:  Full Stack Web Developer
       time: 2019 - (Present)
       company: Freelancing
       details: |
@@ -83,9 +85,8 @@ experiences:
         - Express.js
         - Python Django
         - RESTful API
-
-    
-    role: Translator
+  
+    - role: Translator
       time: 2017 - (Present)
       company: Freelancing
       details: |
